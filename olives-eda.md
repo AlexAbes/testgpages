@@ -1,11 +1,11 @@
 ---
 title: EDA
 notebook: olives-eda.ipynb
+nav_include: 1
+nav_include: 2
 ---
 
 ## Contents
-nav_include: 1
-nav_include: 2
 {:.no_toc}
 *  
 {: toc}
